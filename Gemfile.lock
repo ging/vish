@@ -378,7 +378,7 @@ GEM
     rails_engine_decorators (1.0.0)
       railties (>= 3.2.8)
     raindrops (0.16.0)
-    rake (10.5.0)
+    rake (13.0.1)
     rdoc (3.12.2)
       json (~> 1.4)
     recaptcha (4.3.1)
@@ -525,7 +525,7 @@ DEPENDENCIES
   pry (= 0.9.12.6)
   rack-cors (= 1.0.3)
   rails!
-  rake (= 10.5.0)
+  rake (= 13.0.1)
   recaptcha
   redis (= 3.3.3)
   resque (= 1.27.0)
