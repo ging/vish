@@ -14,8 +14,8 @@ namespace :rsabtest do
     
     printTitle("Generating AB Test Report")
 
-    startDate = DateTime.new(2019,3,1) #(year,month,day)
-    endDate = DateTime.new(2020,6,30)
+    startDate = DateTime.new(2020,6,30) #(year,month,day)
+    endDate = DateTime.new(2025,6,30)
     firstDate = endDate
     lastDate = startDate
 
