@@ -210,6 +210,7 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.10.0)
+    concurrent-ruby (1.1.10)
     deep_merge (1.1.1)
     deface (0.9.1)
       nokogiri (~> 1.5.0)
@@ -263,7 +264,8 @@ GEM
     highline (1.7.8)
     hike (1.2.3)
     htmlentities (4.3.4)
-    i18n (0.7.0)
+    i18n (0.9.5)
+      concurrent-ruby (~> 1.0)
     i18n-js (2.1.2)
       i18n
     inherited_resources (1.4.1)
